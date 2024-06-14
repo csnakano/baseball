@@ -1,5 +1,5 @@
-#!pip install streamlit
-#!pip install -U beautifulsoup4
+# !pip install streamlit
+# !pip install -U beautifulsoup4
 import streamlit as st
 import numpy as np
 import pandas as pd
